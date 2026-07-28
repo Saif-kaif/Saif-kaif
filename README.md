@@ -10,7 +10,7 @@
 - 📫 How to reach me: **iceageclan9876@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **If my code works on the first run, I immediately become suspicious.😄**
-- <!-- 💬 Ask me about **Java, Python, Git, JavaFX, SQL, and Machine Learning**-->-
+  <!--- 💬 Ask me about **Java, Python, Git, JavaFX, SQL, and Machine Learning**-->-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-kaif&label=Profile%20views&color=0e75b6&style=flat" alt="saif-kaif" /> </p>

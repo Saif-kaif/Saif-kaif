@@ -3,13 +3,21 @@
 <h1 align="center">Hi 👋, I'm Saifuzzaman Kaif</h1>
 <h3 align="center">Computer Science & Engineering Student</h3>
 
+- 🔭 I’m currently working on **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Java, PyTorch, Matplotlib, and Cybersecurity**
+- 👯 I’m looking to collaborate on **Java Applications and AI/ML Projects**
+- 🤔 I’m looking for help with **Cloud Computing and Advanced Machine Learning**
+- 📫 How to reach me: **iceageclan9876@gmail.com**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **If my code works on the first run, I immediately become suspicious.😄**
+- <!-- 💬 Ask me about **Java, Python, Git, JavaFX, SQL, and Machine Learning**-->-
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-kaif&label=Profile%20views&color=0e75b6&style=flat" alt="saif-kaif" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-
-  
 <p align="left">
   <a href="https://www.linkedin.com/in/saifuzzamankaif">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

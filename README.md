@@ -32,7 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saif-kaif&" alt="saif-kaif" /></p>
 
-
-
-
-<h2 align="left">🐍 Contributions</h2>
